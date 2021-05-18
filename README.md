@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yehia Ehab
 - 👀 I’m studying at Faculty of engineering
-- 🌱 My major is communication and electronics engineering
+- 🌱 My major is Communication and Electronics engineering
 - 💞️ I’m currently learning embedded systems
 - 📫 You can contact me on Facebook through "Yehia Ehab Orfy"
 
